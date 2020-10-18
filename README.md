@@ -2,7 +2,12 @@
 
 
 ### 1. webserver yang digunakan pada "testing.mekanis.me"
+- Masukkan `http.host == "testing.mekanis.me"` pada display filter
+- Credentials didapatkan
 ![1_1](1.1.jpg)
+- Buka wireshark capture internet adapter
+- Buka testing.mekanis.me di browser
+- Credentials dimasukkan
 ![1_2](1.2.jpg)
 
 
