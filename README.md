@@ -12,7 +12,7 @@
 
 
 ### 2. Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"
-- Masukkan `http contains “Tim”` pada display filter
+- Masukkan `http contains "Tim"` pada display filter
 
 ![2_1](2.1.jpg)
 ![2_2](2.2.jpg)
@@ -41,7 +41,7 @@
 
 ### 6. Simpan dan Buka file "Open This.pdf" di Answer.zip
 - Masukkan `ftp-data` pada display filter
-
+- Cari Answer.zip dan zipkey.txt menggunakan ctrl + f
 ![6_1](6.1.jpg)
 
 
